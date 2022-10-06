@@ -1,0 +1,35 @@
+
+
+.margin-it-1{
+    padding: 8% 12%;
+}
+
+.img-item-1{
+    margin-left: -30%;
+    
+}
+.cont-item-2{
+    width: 150%;
+}
+
+.mic-cont_h{
+    padding-top: 35%;
+}
+
+
+.one_pg-d{}
+.two_pg-d,.three_pg-d,.p_cont{
+    display: none;
+}
+
+.dd_one,.dd_two,.dd_three{
+    display: none;
+}
+.dd_one{
+    background: tomato;
+   
+    margin-right: 3px;
+}
+.dd_one .nav-link{
+    color: #fff;
+}
